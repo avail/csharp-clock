@@ -1,0 +1,5 @@
+G:\rand\Clock\Clock\bin\Debug\Clock.exe
+G:\rand\Clock\Clock\bin\Debug\Clock.pdb
+G:\rand\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+G:\rand\Clock\Clock\obj\Debug\Clock.exe
+G:\rand\Clock\Clock\obj\Debug\Clock.pdb
