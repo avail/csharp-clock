@@ -71,6 +71,7 @@ namespace Clock
                         buffer += "\r\n";
                 }
                 Console.Write(buffer);
+                Console.WriteLine(number[12][0] + "\t" + DateTime.Now.Day + " / " + DateTime.Now.Month + " / " + DateTime.Now.Year);
                 System.Threading.Thread.Sleep(10);
                 Console.SetCursorPosition(0, 0);
             }
